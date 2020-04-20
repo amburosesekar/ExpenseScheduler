@@ -8,7 +8,7 @@ Expense Scheduler fully Written in Julia and Verified with Ubuntu Cloud
            Min, (sum(w*xd)-Amount)
            where w--> percentage of each type
                  xd--->perday spent Amount
-5. disply in Graph
+5. display in Graph
 6. Link with WebIO
 ### (Video Link)
 #### (Live Demo)[http://159.65.147.167/]
@@ -22,5 +22,5 @@ It's only for Temporary use.
 5. used for Educational/Industrial
 ###### Limitation
 1. Initial Latency of Web page load is high
-2. Intial Compilation time also High
+2. Initial Compilation time also High
 
