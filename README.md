@@ -15,7 +15,7 @@ Expense Scheduler fully Written in Julia and Verified with Ubuntu Cloud
 It's only for Temporary use. 
 
 ##### Applications
-1. same code use for Desktop App using Blink(MacOs/Linux/MacOS)
+1. same code use for Desktop App using Blink(Windows/Linux/MacOS)
 2. Ineractive app using Intranet like Jubyter
 3. Hybrid App using Cloud(Dekstop/NotePad/MobilePhone)
 4. Data Sceince/Numerical Computing App
